@@ -12,6 +12,7 @@ html{
 .wrapper{
     margin: 10px;
     height: 100%;
+    border: 1px solid red;
 
 }
 
@@ -29,4 +30,30 @@ html{
 .top-area{
     padding: 15px;
     text-align: center;
+}
+
+.top-area h2{
+    padding: 10px;
+}
+
+.card{
+    
+    width: 200px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 0.5rem;
+
+
+}
+
+.card img{
+    border-radius:  10px 10px 0px 0px; 
+    
+
+}
+.opt-button{
+    font-size: 18px;
+    padding: 5px;
+
 }
