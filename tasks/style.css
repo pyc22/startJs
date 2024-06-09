@@ -83,26 +83,6 @@ body{
     font-size: 18px;
 }
 
-.btn{
-    width: 100px;
-    padding: 0.8rem;
-    background-color: white;
-    border-radius: 15px;
-    border: 1px solid gray;
-    font-size: 18px;
-    cursor: pointer;
-}
-.btn:hover{
-    width: 100px;
-    padding: 0.8rem;
-    background-color: gray;
-    border-radius: 15px;
-    border: 1px solid white;
-    font-size: 18px;
-    color :white;
-    cursor: pointer;
-}
-
 .task-options{
     position: absolute;
     right: 15px;
@@ -119,7 +99,7 @@ body{
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: #fff;
+    color: #000000;
     background-color: #04AA6D;
     border: none;
     border-radius: 15px;

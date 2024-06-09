@@ -33,3 +33,9 @@ html {
     font-weight: bold;
     
 }
+
+.subtitle{
+    font-size: 0.8rem;
+     font-weight: initial;
+     display: block;
+}
